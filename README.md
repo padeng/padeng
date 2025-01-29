@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Glenn. I am interested in RF, DSP, and ML/AI
 
 <!--
 **padeng/padeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
